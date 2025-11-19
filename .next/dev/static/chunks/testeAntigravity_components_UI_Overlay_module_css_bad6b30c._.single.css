@@ -1,0 +1,262 @@
+/* [project]/testeAntigravity/components/UI/Overlay.module.css [app-client] (css) */
+.Overlay-module__OGTWkG__overlay {
+  pointer-events: none;
+  width: 100%;
+  height: 100%;
+  padding: var(--spacing-lg);
+  z-index: 10;
+  flex-direction: column;
+  justify-content: space-between;
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.Overlay-module__OGTWkG__header {
+  animation: 1s ease-out Overlay-module__OGTWkG__fadeInDown;
+}
+
+.Overlay-module__OGTWkG__title {
+  letter-spacing: .08em;
+  background: linear-gradient(135deg, #7dd3fc 0%, #a78bfa 50%, #6366f1 100%);
+  -webkit-text-fill-color: transparent;
+  text-shadow: none;
+  filter: drop-shadow(0 0 30px #7dd3fc4d);
+  -webkit-background-clip: text;
+  background-clip: text;
+  margin: 0 0 .5rem;
+  font-size: 3rem;
+}
+
+.Overlay-module__OGTWkG__subtitle {
+  color: var(--text-secondary);
+  letter-spacing: .05em;
+  opacity: .9;
+  margin: 0;
+  font-size: 1.1rem;
+  font-weight: 400;
+}
+
+.Overlay-module__OGTWkG__detailPanel {
+  right: var(--spacing-lg);
+  -webkit-backdrop-filter: blur(20px);
+  width: 400px;
+  max-height: 80vh;
+  padding: var(--spacing-lg);
+  pointer-events: all;
+  background: #0f172ab3;
+  border: 1px solid #7dd3fc33;
+  border-radius: 20px;
+  animation: .5s cubic-bezier(.34, 1.56, .64, 1) Overlay-module__OGTWkG__slideInRight;
+  position: fixed;
+  top: 50%;
+  overflow-y: auto;
+  transform: translateY(-50%);
+  box-shadow: 0 8px 32px #0006, 0 0 60px #6366f126, inset 0 1px #ffffff1a;
+}
+
+.Overlay-module__OGTWkG__closeButton {
+  top: var(--spacing-sm);
+  right: var(--spacing-sm);
+  color: var(--text-primary);
+  cursor: pointer;
+  width: 36px;
+  height: 36px;
+  transition: all var(--transition-normal);
+  background: #ffffff14;
+  border: 1px solid #ffffff26;
+  border-radius: 50%;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.2rem;
+  font-weight: 300;
+  display: flex;
+  position: absolute;
+}
+
+.Overlay-module__OGTWkG__closeButton:hover {
+  background: #ffffff26;
+  border-color: #7dd3fc66;
+  transform: rotate(90deg);
+  box-shadow: 0 0 20px #7dd3fc4d;
+}
+
+.Overlay-module__OGTWkG__planetName {
+  margin: 0 0 var(--spacing-sm) 0;
+  background: linear-gradient(135deg, #7dd3fc 0%, #a78bfa 100%);
+  -webkit-text-fill-color: transparent;
+  filter: drop-shadow(0 0 20px #7dd3fc4d);
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-size: 2.2rem;
+}
+
+.Overlay-module__OGTWkG__planetColor {
+  width: 100%;
+  height: 3px;
+  margin-bottom: var(--spacing-md);
+  opacity: .8;
+  border-radius: 2px;
+  box-shadow: 0 0 15px;
+}
+
+.Overlay-module__OGTWkG__description {
+  color: var(--text-secondary);
+  margin-bottom: var(--spacing-md);
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 1.7;
+}
+
+.Overlay-module__OGTWkG__stats {
+  flex-direction: column;
+  gap: .75rem;
+  display: flex;
+}
+
+.Overlay-module__OGTWkG__stat {
+  padding: var(--spacing-sm);
+  transition: all var(--transition-normal);
+  background: #ffffff08;
+  border: 1px solid #ffffff14;
+  border-radius: 12px;
+  justify-content: space-between;
+  align-items: center;
+  display: flex;
+}
+
+.Overlay-module__OGTWkG__stat:hover {
+  background: #ffffff0f;
+  border-color: #7dd3fc33;
+  transform: translateX(4px);
+}
+
+.Overlay-module__OGTWkG__statLabel {
+  color: var(--text-muted);
+  font-size: .9rem;
+  font-weight: 400;
+}
+
+.Overlay-module__OGTWkG__statValue {
+  background: linear-gradient(135deg, #7dd3fc 0%, #a78bfa 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-clip: text;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.Overlay-module__OGTWkG__footer {
+  text-align: center;
+  opacity: .6;
+  -webkit-backdrop-filter: blur(10px);
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: #0f172a66;
+  border: 1px solid #ffffff0d;
+  border-radius: 12px;
+  animation: 1s ease-out Overlay-module__OGTWkG__fadeInUp;
+}
+
+.Overlay-module__OGTWkG__footer p {
+  color: var(--text-secondary);
+  margin: 0;
+  font-size: .9rem;
+  font-weight: 300;
+}
+
+@keyframes Overlay-module__OGTWkG__fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes Overlay-module__OGTWkG__fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes Overlay-module__OGTWkG__slideInRight {
+  from {
+    opacity: 0;
+    transform: translateY(-50%)translateX(60px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(-50%)translateX(0);
+  }
+}
+
+@media (max-width: 768px) {
+  .Overlay-module__OGTWkG__overlay {
+    padding: var(--spacing-sm);
+  }
+
+  .Overlay-module__OGTWkG__title {
+    font-size: 2rem;
+  }
+
+  .Overlay-module__OGTWkG__subtitle {
+    font-size: .9rem;
+  }
+
+  .Overlay-module__OGTWkG__detailPanel {
+    right: var(--spacing-sm);
+    left: var(--spacing-sm);
+    width: auto;
+    top: auto;
+    bottom: var(--spacing-sm);
+    max-height: 60vh;
+    transform: none;
+  }
+
+  @keyframes Overlay-module__OGTWkG__slideInRight {
+    from {
+      opacity: 0;
+      transform: translateY(60px);
+    }
+
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .Overlay-module__OGTWkG__planetName {
+    font-size: 1.8rem;
+  }
+}
+
+.Overlay-module__OGTWkG__detailPanel::-webkit-scrollbar {
+  width: 6px;
+}
+
+.Overlay-module__OGTWkG__detailPanel::-webkit-scrollbar-track {
+  background: #ffffff08;
+  border-radius: 3px;
+}
+
+.Overlay-module__OGTWkG__detailPanel::-webkit-scrollbar-thumb {
+  background: #7dd3fc4d;
+  border-radius: 3px;
+}
+
+.Overlay-module__OGTWkG__detailPanel::-webkit-scrollbar-thumb:hover {
+  background: #7dd3fc80;
+}
+
+/*# sourceMappingURL=testeAntigravity_components_UI_Overlay_module_css_bad6b30c._.single.css.map*/

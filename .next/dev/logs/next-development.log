@@ -1,0 +1,2017 @@
+[00:00:02.378] Server  LOG      ✓ Ready in 1602ms
+[00:00:07.468] Server  LOG      ○ Compiling / ...
+[00:00:08.631] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:07.714] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:07.904] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                  ...
+
+[00:06:10.402] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:11.084] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                  ...
+
+[00:06:25.833] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:26.178] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                  ...
+
+[00:07:16.356] Server  LOG      ✓ Compiled in 771ms
+[00:07:17.020] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:07:18.398] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:07:38.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:38.935] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                          <head>
+                          ...
+                            <WelcomeScreen onExplore={function handleExplore}>
+                              <div className={"WelcomeS..."}>
+                                <div className="WelcomeScr...">
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "71.93682505252328%"
+-                                     left: "62.3414%"
++                                     top: "43.51958886271671%"
+-                                     top: "16.9525%"
++                                     animationDelay: "2.965611278520527s"
++                                     animationDuration: "3.6713562678467424s"
+-                                     animation-delay: "1.64064s"
+-                                     animation-duration: "3.17637s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "7.1284440696010805%"
+-                                     left: "72.7105%"
++                                     top: "53.98475294416837%"
+-                                     top: "45.0777%"
++                                     animationDelay: "0.5841095435859585s"
++                                     animationDuration: "3.0989702262456884s"
+-                                     animation-delay: "2.88816s"
+-                                     animation-duration: "2.39463s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "62.18588511717789%"
+-                                     left: "71.487%"
++                                     top: "26.009766061339246%"
+-                                     top: "34.4952%"
++                                     animationDelay: "0.30495027774055194s"
++                                     animationDuration: "2.342175591141249s"
+-                                     animation-delay: "0.580687s"
+-                                     animation-duration: "2.16186s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "58.82520262937503%"
+-                                     left: "2.99134%"
++                                     top: "44.61020004967276%"
+-                                     top: "96.6642%"
++                                     animationDelay: "1.7322104453897063s"
++                                     animationDuration: "3.1637180942045307s"
+-                                     animation-delay: "2.01417s"
+-                                     animation-duration: "2.01134s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "31.471077711626883%"
+-                                     left: "63.4281%"
++                                     top: "60.11103827157231%"
+-                                     top: "20.253%"
++                                     animationDelay: "2.756182241621235s"
++                                     animationDuration: "3.486176920039102s"
+-                                     animation-delay: "0.898824s"
+-                                     animation-duration: "3.91511s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "84.65662662384291%"
+-                                     left: "71.2065%"
++                                     top: "3.408973581408614%"
+-                                     top: "93.9078%"
++                                     animationDelay: "1.0074735502675567s"
++                                     animationDuration: "3.4057522688359336s"
+-                                     animation-delay: "2.21533s"
+-                                     animation-duration: "2.00845s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "35.47454759386892%"
+-                                     left: "75.9832%"
++                                     top: "53.33705403420874%"
+-                                     top: "15.0996%"
++                                     animationDelay: "0.5632148566669479s"
++                                     animationDuration: "3.1871538604084586s"
+-                                     animation-delay: "1.29556s"
+-                                     animation-duration: "2.59436s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "44.03786469624856%"
+-                                     left: "16.4868%"
++                                     top: "79.56720800017796%"
+-                                     top: "14.2345%"
++                                     animationDelay: "2.045182615797154s"
++                                     animationDuration: "2.939005878775603s"
+-                                     animation-delay: "0.851031s"
+-                                     animation-duration: "3.18511s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "11.716363359834325%"
+-                                     left: "50.9388%"
++                                     top: "67.02961690453067%"
+-                                     top: "69.7261%"
++                                     animationDelay: "0.7415676840544734s"
++                                     animationDuration: "3.8578947717923047s"
+-                                     animation-delay: "1.39219s"
+-                                     animation-duration: "3.23254s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "57.53643818966915%"
+-                                     left: "16.225%"
++                                     top: "33.89512487953487%"
+-                                     top: "5.51446%"
++                                     animationDelay: "1.3605128623358818s"
++                                     animationDuration: "3.31086671826488s"
+-                                     animation-delay: "2.61321s"
+-                                     animation-duration: "2.18752s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "56.76908802833592%"
+-                                     left: "96.4831%"
++                                     top: "95.46149685046812%"
+-                                     top: "46.1979%"
++                                     animationDelay: "0.5551168766127401s"
++                                     animationDuration: "2.889196078228733s"
+-                                     animation-delay: "1.23574s"
+-                                     animation-duration: "3.39755s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "88.9304487570839%"
+-                                     left: "81.6595%"
++                                     top: "14.897009188091381%"
+-                                     top: "78.2333%"
++                                     animationDelay: "2.587116515232699s"
++                                     animationDuration: "3.3520382269393947s"
+-                                     animation-delay: "2.47078s"
+-                                     animation-duration: "2.17031s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "38.264609139669716%"
+-                                     left: "44.7829%"
++                                     top: "5.64963531440087%"
+-                                     top: "9.0741%"
++                                     animationDelay: "1.6763802327551853s"
++                                     animationDuration: "3.137080208340293s"
+-                                     animation-delay: "1.53891s"
+-                                     animation-duration: "3.19892s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "55.57240921865346%"
+-                                     left: "13.346%"
++                                     top: "85.99338251745453%"
+-                                     top: "95.521%"
++                                     animationDelay: "1.0147891114421907s"
++                                     animationDuration: "3.299754184564941s"
+-                                     animation-delay: "2.69564s"
+-                                     animation-duration: "3.45963s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "69.75268434459181%"
+-                                     left: "94.7259%"
++                                     top: "48.24556630582768%"
+-                                     top: "33.4202%"
++                                     animationDelay: "0.08786015737186359s"
++                                     animationDuration: "3.136355859726889s"
+-                                     animation-delay: "0.477217s"
+-                                     animation-duration: "3.84163s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "50.714112439713176%"
+-                                     left: "78.7965%"
++                                     top: "61.7163723972017%"
+-                                     top: "1.19454%"
++                                     animationDelay: "1.65935167162792s"
++                                     animationDuration: "2.0827727569235623s"
+-                                     animation-delay: "1.82933s"
+-                                     animation-duration: "2.01961s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "51.64603009900941%"
+-                                     left: "59.4302%"
++                                     top: "20.312067741362394%"
+-                                     top: "78.6295%"
++                                     animationDelay: "0.932356942832301s"
++                                     animationDuration: "3.79219117116977s"
+-                                     animation-delay: "1.16176s"
+-                                     animation-duration: "2.23773s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "67.92235407209368%"
+-                                     left: "21.7188%"
++                                     top: "93.87223389187663%"
+-                                     top: "3.42598%"
++                                     animationDelay: "1.8126196066564138s"
++                                     animationDuration: "2.3184166571465017s"
+-                                     animation-delay: "2.41551s"
+-                                     animation-duration: "2.56951s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "98.24664937006179%"
+-                                     left: "86.1939%"
++                                     top: "1.5583135533490777%"
+-                                     top: "0.258965%"
++                                     animationDelay: "1.7391723712305058s"
++                                     animationDuration: "2.454422397303543s"
+-                                     animation-delay: "0.174281s"
+-                                     animation-duration: "3.33541s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "35.718130562261244%"
+-                                     left: "53.0051%"
++                                     top: "80.99162196961296%"
+-                                     top: "98.4704%"
++                                     animationDelay: "2.180301611550152s"
++                                     animationDuration: "3.4469420429618096s"
+-                                     animation-delay: "1.21846s"
+-                                     animation-duration: "2.12807s"
+                                    }}
+                                  >
+                                ...
+                  ...
+
+[00:12:49.763] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:12:49.955] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                          <head>
+                          ...
+                            <WelcomeScreen onExplore={function handleExplore}>
+                              <div className={"WelcomeS..."}>
+                                <div className="WelcomeScr...">
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "44.453175246861534%"
+-                                     left: "57.5246%"
++                                     top: "92.32423678199892%"
+-                                     top: "83.0473%"
++                                     animationDelay: "2.0702870524206785s"
++                                     animationDuration: "2.472064823491343s"
+-                                     animation-delay: "0.607407s"
+-                                     animation-duration: "2.34523s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "32.694254790161835%"
+-                                     left: "10.836%"
++                                     top: "12.634924777060586%"
+-                                     top: "27.0625%"
++                                     animationDelay: "2.7905930100881995s"
++                                     animationDuration: "3.7986028569356867s"
+-                                     animation-delay: "1.25701s"
+-                                     animation-duration: "3.58838s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "1.6451841307153825%"
+-                                     left: "32.6651%"
++                                     top: "28.7360509680483%"
+-                                     top: "13.1288%"
++                                     animationDelay: "2.1438392335613186s"
++                                     animationDuration: "3.5435963226063234s"
+-                                     animation-delay: "2.7701s"
+-                                     animation-duration: "2.3664s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "92.27277782404943%"
+-                                     left: "1.94438%"
++                                     top: "80.8740842466736%"
+-                                     top: "82.5066%"
++                                     animationDelay: "2.9344421085200363s"
++                                     animationDuration: "2.2209446813560394s"
+-                                     animation-delay: "2.02656s"
+-                                     animation-duration: "3.17277s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "89.95136024436971%"
+-                                     left: "16.6569%"
++                                     top: "46.38609349467973%"
+-                                     top: "17.1774%"
++                                     animationDelay: "0.1142208333244017s"
++                                     animationDuration: "3.2420496661066296s"
+-                                     animation-delay: "1.2096s"
+-                                     animation-duration: "2.22231s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "10.050923330522043%"
+-                                     left: "0.848037%"
++                                     top: "73.37051912142769%"
+-                                     top: "47.0228%"
++                                     animationDelay: "1.5466749601437744s"
++                                     animationDuration: "2.8566724514221455s"
+-                                     animation-delay: "1.73808s"
+-                                     animation-duration: "2.97517s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "68.92224988774105%"
+-                                     left: "20.5986%"
++                                     top: "38.12391442754573%"
+-                                     top: "16.4249%"
++                                     animationDelay: "1.5050877279534844s"
++                                     animationDuration: "3.6651001468625197s"
+-                                     animation-delay: "0.10206s"
+-                                     animation-duration: "3.11761s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "13.71023013856295%"
+-                                     left: "33.0902%"
++                                     top: "95.28657225098101%"
+-                                     top: "33.4208%"
++                                     animationDelay: "0.5250191635904999s"
++                                     animationDuration: "3.6091082271490267s"
+-                                     animation-delay: "2.96495s"
+-                                     animation-duration: "2.31936s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "51.81326147254859%"
+-                                     left: "20.8154%"
++                                     top: "15.819792504152474%"
+-                                     top: "41.6951%"
++                                     animationDelay: "0.8913827698587583s"
++                                     animationDuration: "2.55017689057839s"
+-                                     animation-delay: "1.80375s"
+-                                     animation-duration: "2.7569s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "34.33164794099359%"
+-                                     left: "1.92944%"
++                                     top: "46.67413714122466%"
+-                                     top: "0.31846%"
++                                     animationDelay: "0.32296451236808066s"
++                                     animationDuration: "3.051516751217478s"
+-                                     animation-delay: "1.3792s"
+-                                     animation-duration: "3.99701s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "24.407167892133184%"
+-                                     left: "79.6314%"
++                                     top: "32.949768599572735%"
+-                                     top: "30.2655%"
++                                     animationDelay: "0.6931000887838199s"
++                                     animationDuration: "2.9737663453875447s"
+-                                     animation-delay: "0.361042s"
+-                                     animation-duration: "3.50222s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "26.935959023378587%"
+-                                     left: "68.0945%"
++                                     top: "91.92240028696669%"
+-                                     top: "87.1229%"
++                                     animationDelay: "2.7432722826855827s"
++                                     animationDuration: "3.8611283148511917s"
+-                                     animation-delay: "0.110985s"
+-                                     animation-duration: "3.21909s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "99.64385010395385%"
+-                                     left: "75.6858%"
++                                     top: "29.368643183423305%"
+-                                     top: "79.7078%"
++                                     animationDelay: "0.9321341454506762s"
++                                     animationDuration: "3.8857178594735005s"
+-                                     animation-delay: "0.788209s"
+-                                     animation-duration: "3.16771s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "30.47506738540211%"
+-                                     left: "86.6485%"
++                                     top: "95.47853820106349%"
+-                                     top: "65.4722%"
++                                     animationDelay: "1.788401890949378s"
++                                     animationDuration: "3.7146362583513604s"
+-                                     animation-delay: "2.65565s"
+-                                     animation-duration: "3.09977s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "22.23973847178946%"
+-                                     left: "72.5943%"
++                                     top: "23.79448262503976%"
+-                                     top: "73.4752%"
++                                     animationDelay: "2.8726976902431853s"
++                                     animationDuration: "2.2643384711092454s"
+-                                     animation-delay: "2.9014s"
+-                                     animation-duration: "2.26032s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "35.61005070220301%"
+-                                     left: "50.5814%"
++                                     top: "23.44104382188956%"
+-                                     top: "23.6359%"
++                                     animationDelay: "1.2385143244433454s"
++                                     animationDuration: "2.6063630806200484s"
+-                                     animation-delay: "1.23111s"
+-                                     animation-duration: "2.32228s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "0.15419890834239558%"
+-                                     left: "42.6167%"
++                                     top: "46.28869572327754%"
+-                                     top: "73.5161%"
++                                     animationDelay: "1.1284647299686767s"
++                                     animationDuration: "2.8772576809770323s"
+-                                     animation-delay: "0.789359s"
+-                                     animation-duration: "3.78005s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "14.218940790445755%"
+-                                     left: "19.6817%"
++                                     top: "74.8053541260059%"
+-                                     top: "38.5042%"
++                                     animationDelay: "2.4318717704936317s"
++                                     animationDuration: "2.1583701113709637s"
+-                                     animation-delay: "0.16813s"
+-                                     animation-duration: "3.73739s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "59.54530554290969%"
+-                                     left: "18.0723%"
++                                     top: "66.62469090179725%"
+-                                     top: "82.4365%"
++                                     animationDelay: "2.947752637901729s"
++                                     animationDuration: "3.418248627846092s"
+-                                     animation-delay: "1.58912s"
+-                                     animation-duration: "2.1114s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "94.70492286827582%"
+-                                     left: "43.9354%"
++                                     top: "60.840664627961004%"
+-                                     top: "83.7933%"
++                                     animationDelay: "0.9889348416924179s"
++                                     animationDuration: "3.2749901828995416s"
+-                                     animation-delay: "2.06061s"
+-                                     animation-duration: "2.37777s"
+                                    }}
+                                  >
+                                ...
+                  ...
+
+[00:13:18.736] Server  LOG      ✓ Compiled in 190ms
+[00:13:24.360] Server  LOG      ✓ Compiled in 70ms
+[00:13:39.573] Server  LOG      ✓ Compiled in 133ms
+[00:13:41.552] Server  LOG      ✓ Compiled in 148ms
+[00:13:41.600] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:13:41.603] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Scene`.
+[00:13:41.603] Browser ERROR   uncaughtError: Error: Element type is invalid: expected a string (for built-in components) or a class/function (for composite components) but got: object. You likely forgot to export your component from the file it's defined in, or you might have mixed up default and named imports.
+
+Check the render method of `Scene`.
+[00:13:42.266] Browser LOG     THREE.WebGLRenderer: Context Lost.
+[00:13:42.544] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:42.722] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                          <head>
+                          ...
+                            <WelcomeScreen onExplore={function handleExplore}>
+                              <div className={"WelcomeS..."}>
+                                <div className="WelcomeScr...">
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "99.0230011461028%"
+-                                     left: "2.18186%"
++                                     top: "70.72805132068454%"
+-                                     top: "53.4467%"
++                                     animationDelay: "1.78453295699968s"
++                                     animationDuration: "3.1093105381954675s"
+-                                     animation-delay: "0.0789762s"
+-                                     animation-duration: "3.32395s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "29.201142465737906%"
+-                                     left: "31.0733%"
++                                     top: "14.468751950880476%"
+-                                     top: "98.5834%"
++                                     animationDelay: "2.206662950371563s"
++                                     animationDuration: "3.5794778647083985s"
+-                                     animation-delay: "1.75552s"
+-                                     animation-duration: "3.4699s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "97.48573973509387%"
+-                                     left: "78.8727%"
++                                     top: "55.713423952026005%"
+-                                     top: "43.3743%"
++                                     animationDelay: "2.5835576065940957s"
++                                     animationDuration: "3.89678373944142s"
+-                                     animation-delay: "1.14463s"
+-                                     animation-duration: "3.48233s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "54.327853287981206%"
+-                                     left: "56.6113%"
++                                     top: "15.478400804990478%"
+-                                     top: "38.8598%"
++                                     animationDelay: "2.648028124340125s"
++                                     animationDuration: "2.7463304045932104s"
+-                                     animation-delay: "1.43547s"
+-                                     animation-duration: "2.25951s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "63.87777468014571%"
+-                                     left: "3.28309%"
++                                     top: "20.102653627548317%"
+-                                     top: "74.06%"
++                                     animationDelay: "2.5286258261826906s"
++                                     animationDuration: "3.550505432090421s"
+-                                     animation-delay: "1.14166s"
+-                                     animation-duration: "3.73542s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "11.68208179727388%"
+-                                     left: "56.5322%"
++                                     top: "30.953235396896673%"
+-                                     top: "31.3949%"
++                                     animationDelay: "2.102760103758952s"
++                                     animationDuration: "2.985362313244311s"
+-                                     animation-delay: "1.85757s"
+-                                     animation-duration: "2.72154s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "42.1186882357951%"
+-                                     left: "6.98341%"
++                                     top: "9.568727647321108%"
+-                                     top: "69.9464%"
++                                     animationDelay: "2.584920531911987s"
++                                     animationDuration: "3.4075912095180154s"
+-                                     animation-delay: "0.290487s"
+-                                     animation-duration: "2.44512s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "10.577719829509501%"
+-                                     left: "78.9507%"
++                                     top: "57.81157299660996%"
+-                                     top: "0.297057%"
++                                     animationDelay: "0.6913256748803389s"
++                                     animationDuration: "3.7674926027984696s"
+-                                     animation-delay: "1.89635s"
+-                                     animation-duration: "2.03543s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "11.9964334398163%"
+-                                     left: "6.81847%"
++                                     top: "33.47431017192408%"
+-                                     top: "81.3127%"
++                                     animationDelay: "0.991325184111889s"
++                                     animationDuration: "2.759866804252811s"
+-                                     animation-delay: "2.25479s"
+-                                     animation-duration: "2.33654s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "68.67290260741414%"
+-                                     left: "94.4279%"
++                                     top: "11.440835324096977%"
+-                                     top: "19.5845%"
++                                     animationDelay: "0.9673132450246714s"
++                                     animationDuration: "2.2806044632175895s"
+-                                     animation-delay: "0.830588s"
+-                                     animation-duration: "2.45197s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "55.598521195620066%"
+-                                     left: "4.58503%"
++                                     top: "22.143716600771015%"
+-                                     top: "15.4412%"
++                                     animationDelay: "1.7923651385478072s"
++                                     animationDuration: "3.4321546769434033s"
+-                                     animation-delay: "0.985432s"
+-                                     animation-duration: "3.75146s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "89.83611810706414%"
+-                                     left: "94.0998%"
++                                     top: "74.815415459495%"
+-                                     top: "49.6589%"
++                                     animationDelay: "2.9921284837139s"
++                                     animationDuration: "3.644784348418055s"
+-                                     animation-delay: "2.55892s"
+-                                     animation-duration: "3.84815s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "70.11992476720759%"
+-                                     left: "2.96698%"
++                                     top: "72.44663054574332%"
+-                                     top: "44.1518%"
++                                     animationDelay: "1.3027508489704274s"
++                                     animationDuration: "2.7040931100574896s"
+-                                     animation-delay: "2.38358s"
+-                                     animation-duration: "2.77786s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "82.85499667681265%"
+-                                     left: "30.3915%"
++                                     top: "72.08338037830195%"
+-                                     top: "14.9787%"
++                                     animationDelay: "0.3261946913917301s"
++                                     animationDuration: "2.6756508249333812s"
+-                                     animation-delay: "2.08419s"
+-                                     animation-duration: "3.38716s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "4.95535437980924%"
+-                                     left: "93.3794%"
++                                     top: "11.683670023396465%"
+-                                     top: "37.2145%"
++                                     animationDelay: "1.5029910444709926s"
++                                     animationDuration: "3.5947013662342893s"
+-                                     animation-delay: "1.5813s"
+-                                     animation-duration: "3.01021s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "84.9388072818575%"
+-                                     left: "62.003%"
++                                     top: "80.46513612279733%"
+-                                     top: "24.068%"
++                                     animationDelay: "2.0861780585778495s"
++                                     animationDuration: "3.836275239430705s"
+-                                     animation-delay: "2.09221s"
+-                                     animation-duration: "3.79889s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "83.28697142288758%"
+-                                     left: "36.3542%"
++                                     top: "14.154268522151748%"
+-                                     top: "82.2776%"
++                                     animationDelay: "0.19622428953277282s"
++                                     animationDuration: "2.6658237890628333s"
+-                                     animation-delay: "1.03446s"
+-                                     animation-duration: "3.7606s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "56.963954322580776%"
+-                                     left: "75.3743%"
++                                     top: "82.33181341471087%"
+-                                     top: "26.2018%"
++                                     animationDelay: "0.6003915446471846s"
++                                     animationDuration: "3.9612818015303053s"
+-                                     animation-delay: "1.29715s"
+-                                     animation-duration: "3.02439s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "22.956120360397193%"
+-                                     left: "59.548%"
++                                     top: "63.27338666696247%"
+-                                     top: "46.3464%"
++                                     animationDelay: "1.3964631279166742s"
++                                     animationDuration: "2.479379158047944s"
+-                                     animation-delay: "2.01239s"
+-                                     animation-duration: "2.0856s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "48.31344121356504%"
+-                                     left: "47.1503%"
++                                     top: "11.564807380232189%"
+-                                     top: "14.106%"
++                                     animationDelay: "2.425135609834639s"
++                                     animationDuration: "3.9774411157353917s"
+-                                     animation-delay: "0.530599s"
+-                                     animation-duration: "3.21169s"
+                                    }}
+                                  >
+                                ...
+                  ...
+
+[00:14:22.463] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:14:22.717] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="/testeAnti...">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <RootLayout>
+                        <html
+                          lang="pt-BR"
+-                         data-jetski-tab-id="1318096260"
+                        >
+                          <head>
+                          ...
+                            <WelcomeScreen onExplore={function handleExplore}>
+                              <div className={"WelcomeS..."}>
+                                <div className="WelcomeScr...">
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "37.101296332750664%"
+-                                     left: "73.2292%"
++                                     top: "7.293897439751684%"
+-                                     top: "12.7891%"
++                                     animationDelay: "1.660683187484889s"
++                                     animationDuration: "3.5122443126000817s"
+-                                     animation-delay: "0.0766624s"
+-                                     animation-duration: "3.23405s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "24.034445808506167%"
+-                                     left: "84.6928%"
++                                     top: "24.7753115128602%"
+-                                     top: "92.8874%"
++                                     animationDelay: "0.20284977319271502s"
++                                     animationDuration: "2.2970705108221328s"
+-                                     animation-delay: "1.99293s"
+-                                     animation-duration: "3.56762s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "46.633544571684446%"
+-                                     left: "27.5747%"
++                                     top: "47.31295297252019%"
+-                                     top: "58.4674%"
++                                     animationDelay: "0.668894368341944s"
++                                     animationDuration: "3.1971637841478113s"
+-                                     animation-delay: "2.3364s"
+-                                     animation-duration: "2.20383s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "7.234784340404965%"
+-                                     left: "13.2843%"
++                                     top: "33.68563491489503%"
+-                                     top: "66.6262%"
++                                     animationDelay: "1.5936726675530166s"
++                                     animationDuration: "2.3405656761814133s"
+-                                     animation-delay: "2.78938s"
+-                                     animation-duration: "2.48919s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "47.97262952905177%"
+-                                     left: "58.238%"
++                                     top: "30.259455562565172%"
+-                                     top: "61.6164%"
++                                     animationDelay: "2.066056441451124s"
++                                     animationDuration: "2.317716082157662s"
+-                                     animation-delay: "0.0673639s"
+-                                     animation-duration: "3.32882s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "36.56676735180563%"
+-                                     left: "87.6108%"
++                                     top: "48.11717337445791%"
+-                                     top: "56.0769%"
++                                     animationDelay: "0.8018125125455596s"
++                                     animationDuration: "2.869930019137045s"
+-                                     animation-delay: "1.69513s"
+-                                     animation-duration: "3.34979s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "35.450392307177545%"
+-                                     left: "38.6691%"
++                                     top: "31.06324049233048%"
+-                                     top: "16.4112%"
++                                     animationDelay: "1.933091531072899s"
++                                     animationDuration: "2.358192867285361s"
+-                                     animation-delay: "0.515639s"
+-                                     animation-duration: "2.00552s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "78.00681957133756%"
+-                                     left: "10.6894%"
++                                     top: "6.626569974005658%"
+-                                     top: "35.1384%"
++                                     animationDelay: "1.279299877256116s"
++                                     animationDuration: "2.5973396763799323s"
+-                                     animation-delay: "0.93666s"
+-                                     animation-duration: "3.89173s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "27.631645271986393%"
+-                                     left: "91.9963%"
++                                     top: "64.26411486702969%"
+-                                     top: "4.16352%"
++                                     animationDelay: "1.737436102438372s"
++                                     animationDuration: "3.0258039716115457s"
+-                                     animation-delay: "2.74643s"
+-                                     animation-duration: "3.25958s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "28.55631551173343%"
+-                                     left: "78.489%"
++                                     top: "29.32615882099716%"
+-                                     top: "65.662%"
++                                     animationDelay: "2.757801501119789s"
++                                     animationDuration: "3.619914873616495s"
+-                                     animation-delay: "1.5839s"
+-                                     animation-duration: "2.6918s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "79.7742594128983%"
+-                                     left: "38.6443%"
++                                     top: "20.58804295176122%"
+-                                     top: "95.5348%"
++                                     animationDelay: "2.6177123150682684s"
++                                     animationDuration: "3.5848050425367113s"
+-                                     animation-delay: "2.36478s"
+-                                     animation-duration: "3.29741s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "43.20364571828043%"
+-                                     left: "62.3163%"
++                                     top: "94.59724828630422%"
+-                                     top: "74.6399%"
++                                     animationDelay: "1.4864297691680968s"
++                                     animationDuration: "2.0431839315989193s"
+-                                     animation-delay: "0.562037s"
+-                                     animation-duration: "3.81553s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "2.3299633827800648%"
+-                                     left: "83.7385%"
++                                     top: "56.01900290228541%"
+-                                     top: "45.8069%"
++                                     animationDelay: "0.9360558169338947s"
++                                     animationDuration: "2.133721785231577s"
+-                                     animation-delay: "2.40327s"
+-                                     animation-duration: "2.96914s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "8.088890196942888%"
+-                                     left: "88.4922%"
++                                     top: "31.3278595734895%"
+-                                     top: "11.0873%"
++                                     animationDelay: "0.8704326358904905s"
++                                     animationDuration: "3.6462053738185327s"
+-                                     animation-delay: "2.68089s"
+-                                     animation-duration: "2.14708s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "93.31330610761852%"
+-                                     left: "46.9815%"
++                                     top: "27.61364555479673%"
+-                                     top: "27.6323%"
++                                     animationDelay: "2.844004281163107s"
++                                     animationDuration: "2.2154831137320503s"
+-                                     animation-delay: "0.601091s"
+-                                     animation-duration: "3.59344s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "44.76478825048551%"
+-                                     left: "5.66239%"
++                                     top: "20.343141122769936%"
+-                                     top: "94.4475%"
++                                     animationDelay: "2.119166474343028s"
++                                     animationDuration: "3.124085440430364s"
+-                                     animation-delay: "2.45164s"
+-                                     animation-duration: "3.74293s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "82.32655422588633%"
+-                                     left: "76.0858%"
++                                     top: "76.18525764762887%"
+-                                     top: "60.2247%"
++                                     animationDelay: "2.3261861232368855s"
++                                     animationDuration: "3.5626518256483735s"
+-                                     animation-delay: "1.84875s"
+-                                     animation-duration: "2.17945s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "73.06143890841254%"
+-                                     left: "99.7686%"
++                                     top: "54.830789534148494%"
+-                                     top: "63.3444%"
++                                     animationDelay: "0.18788235917696694s"
++                                     animationDuration: "3.6396978625140974s"
+-                                     animation-delay: "2.02689s"
+-                                     animation-duration: "2.70601s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "65.01018290959368%"
+-                                     left: "81.798%"
++                                     top: "11.50761148766678%"
+-                                     top: "0.485462%"
++                                     animationDelay: "1.8575646210589805s"
++                                     animationDuration: "3.744359341165676s"
+-                                     animation-delay: "2.92666s"
+-                                     animation-duration: "2.15247s"
+                                    }}
+                                  >
+                                  <div
+                                    className="WelcomeScreen-module__EdFi1q__star"
+                                    style={{
++                                     left: "9.631900183064046%"
+-                                     left: "0.887989%"
++                                     top: "2.2010655283171476%"
+-                                     top: "36.576%"
++                                     animationDelay: "0.5401118515697724s"
++                                     animationDuration: "2.607215737973931s"
+-                                     animation-delay: "2.72228s"
+-                                     animation-duration: "2.01584s"
+                                    }}
+                                  >
+                                ...
+                  ...
+
+[00:18:03.516] Server  LOG      ✓ Compiled in 679ms
+[00:18:04.125] Browser ERROR   ./testeAntigravity/components/Planet.js:96:10
+Parsing ecmascript source code failed
+  94 |                 ))}
+  95 |             </group>
+> 96 |         </group >
+     |          ^^^^^^^^
+  97 |     );
+  98 | }
+  99 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./testeAntigravity/components/Planet.js [Client Component Browser]
+    ./testeAntigravity/components/SolarSystem.js [Client Component Browser]
+    ./testeAntigravity/components/Scene.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./testeAntigravity/components/Planet.js [Client Component SSR]
+    ./testeAntigravity/components/SolarSystem.js [Client Component SSR]
+    ./testeAntigravity/components/Scene.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Server Component]
+[00:18:04.329] Browser ERROR   ./testeAntigravity/components/Planet.js:96:10
+Parsing ecmascript source code failed
+  94 |                 ))}
+  95 |             </group>
+> 96 |         </group >
+     |          ^^^^^^^^
+  97 |     );
+  98 | }
+  99 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./testeAntigravity/components/Planet.js [Client Component Browser]
+    ./testeAntigravity/components/SolarSystem.js [Client Component Browser]
+    ./testeAntigravity/components/Scene.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./testeAntigravity/components/Planet.js [Client Component SSR]
+    ./testeAntigravity/components/SolarSystem.js [Client Component SSR]
+    ./testeAntigravity/components/Scene.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Server Component]
+[00:18:04.394] Browser ERROR   ./testeAntigravity/components/Planet.js:96:10
+Parsing ecmascript source code failed
+  94 |                 ))}
+  95 |             </group>
+> 96 |         </group >
+     |          ^^^^^^^^
+  97 |     );
+  98 | }
+  99 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./testeAntigravity/components/Planet.js [Client Component Browser]
+    ./testeAntigravity/components/SolarSystem.js [Client Component Browser]
+    ./testeAntigravity/components/Scene.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./testeAntigravity/components/Planet.js [Client Component SSR]
+    ./testeAntigravity/components/SolarSystem.js [Client Component SSR]
+    ./testeAntigravity/components/Scene.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Server Component]
+[00:18:04.394] Browser ERROR   ./testeAntigravity/components/Planet.js:96:10
+Parsing ecmascript source code failed
+  94 |                 ))}
+  95 |             </group>
+> 96 |         </group >
+     |          ^^^^^^^^
+  97 |     );
+  98 | }
+  99 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./testeAntigravity/components/Planet.js [Client Component Browser]
+    ./testeAntigravity/components/SolarSystem.js [Client Component Browser]
+    ./testeAntigravity/components/Scene.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Client Component Browser]
+    ./testeAntigravity/app/page.js [Server Component]
+
+  Client Component SSR:
+    ./testeAntigravity/components/Planet.js [Client Component SSR]
+    ./testeAntigravity/components/SolarSystem.js [Client Component SSR]
+    ./testeAntigravity/components/Scene.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Client Component SSR]
+    ./testeAntigravity/app/page.js [Server Component]
+[00:19:29.467] Server  LOG      ✓ Compiled in 208ms
+[00:19:54.614] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:19:54.746] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="/testeAnti...">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <main style={{width:"100vw", ...}}>
+                        <WelcomeScreen onExplore={function handleExplore}>
+                          <div className={"WelcomeS..."}>
+                            <div className="WelcomeScr...">
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "35.256732740301956%"
+-                                 left: "78.1838%"
++                                 top: "13.037739080184096%"
+-                                 top: "30.9544%"
++                                 animationDelay: "0.018419079532484894s"
++                                 animationDuration: "2.008595736622928s"
+-                                 animation-delay: "0.88246s"
+-                                 animation-duration: "2.69667s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "46.80271704479829%"
+-                                 left: "18.7693%"
++                                 top: "65.7787903528461%"
+-                                 top: "3.41461%"
++                                 animationDelay: "0.9497271386159781s"
++                                 animationDuration: "3.6605883071953023s"
+-                                 animation-delay: "0.798965s"
+-                                 animation-duration: "3.66455s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "5.901736515570121%"
+-                                 left: "22.1812%"
++                                 top: "15.803408058387003%"
+-                                 top: "12.1906%"
++                                 animationDelay: "0.6017722173791368s"
++                                 animationDuration: "2.368304301088134s"
+-                                 animation-delay: "0.982078s"
+-                                 animation-duration: "3.42007s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "67.26870165590176%"
+-                                 left: "1.40206%"
++                                 top: "35.807023604061136%"
+-                                 top: "32.1966%"
++                                 animationDelay: "2.223456247901146s"
++                                 animationDuration: "3.5466890669768283s"
+-                                 animation-delay: "1.15993s"
+-                                 animation-duration: "3.5972s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "44.87749387755772%"
+-                                 left: "22.1171%"
++                                 top: "80.79021544144011%"
+-                                 top: "46.3236%"
++                                 animationDelay: "0.8874238611280942s"
++                                 animationDuration: "2.105146296429903s"
+-                                 animation-delay: "2.2157s"
+-                                 animation-duration: "2.45726s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "77.18552962598054%"
+-                                 left: "55.5859%"
++                                 top: "13.145994082537626%"
+-                                 top: "42.1788%"
++                                 animationDelay: "0.3069254579120746s"
++                                 animationDuration: "3.6856474267175403s"
+-                                 animation-delay: "0.549949s"
+-                                 animation-duration: "3.05888s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "75.86889340504842%"
+-                                 left: "47.4365%"
++                                 top: "14.565482023240717%"
+-                                 top: "59.5673%"
++                                 animationDelay: "0.37917915988463413s"
++                                 animationDuration: "2.057399751887877s"
+-                                 animation-delay: "0.0167248s"
+-                                 animation-duration: "3.19468s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "93.21522459545093%"
+-                                 left: "4.60363%"
++                                 top: "37.16509001634466%"
+-                                 top: "3.92491%"
++                                 animationDelay: "0.6091992293593159s"
++                                 animationDuration: "2.612411292953344s"
+-                                 animation-delay: "2.44502s"
+-                                 animation-duration: "3.0076s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "32.72966362253538%"
+-                                 left: "72.8733%"
++                                 top: "85.91191499835796%"
+-                                 top: "88.0762%"
++                                 animationDelay: "0.6562016306136911s"
++                                 animationDuration: "3.34994059880919s"
+-                                 animation-delay: "2.84884s"
+-                                 animation-duration: "2.62347s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "54.14419256550674%"
+-                                 left: "76.624%"
++                                 top: "90.45160719531691%"
+-                                 top: "94.0623%"
++                                 animationDelay: "1.2032042905593063s"
++                                 animationDuration: "2.897603262007848s"
+-                                 animation-delay: "0.911939s"
+-                                 animation-duration: "3.02476s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "58.2608044811485%"
+-                                 left: "36.9334%"
++                                 top: "67.81041968373223%"
+-                                 top: "71.7769%"
++                                 animationDelay: "2.2552159924022432s"
++                                 animationDuration: "2.5648835056049664s"
+-                                 animation-delay: "1.63351s"
+-                                 animation-duration: "2.27789s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "91.02209067124495%"
+-                                 left: "41.398%"
++                                 top: "88.23246064902192%"
+-                                 top: "23.1158%"
++                                 animationDelay: "2.2259272482522485s"
++                                 animationDuration: "2.1716335508176794s"
+-                                 animation-delay: "1.70431s"
+-                                 animation-duration: "3.59398s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "8.663758549616684%"
+-                                 left: "69.4199%"
++                                 top: "89.29877166213046%"
+-                                 top: "54.9213%"
++                                 animationDelay: "2.363673531008963s"
++                                 animationDuration: "3.1387118668379s"
+-                                 animation-delay: "1.7351s"
+-                                 animation-duration: "2.25128s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "58.840868567435614%"
+-                                 left: "53.2929%"
++                                 top: "75.87778295273677%"
+-                                 top: "15.0706%"
++                                 animationDelay: "1.4194093386279758s"
++                                 animationDuration: "3.09467320818712s"
+-                                 animation-delay: "1.50152s"
+-                                 animation-duration: "3.83119s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "38.511533643698016%"
+-                                 left: "7.96104%"
++                                 top: "14.651927866104252%"
+-                                 top: "26.9643%"
++                                 animationDelay: "0.29351712501092597s"
++                                 animationDuration: "2.392208828337224s"
+-                                 animation-delay: "1.99639s"
+-                                 animation-duration: "3.28894s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "57.70498181254897%"
+-                                 left: "93.8451%"
++                                 top: "85.19653657283006%"
+-                                 top: "38.8351%"
++                                 animationDelay: "0.41386535803105395s"
++                                 animationDuration: "2.5566038475002406s"
+-                                 animation-delay: "2.5822s"
+-                                 animation-duration: "3.03569s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "81.29672652310155%"
+-                                 left: "77.3685%"
++                                 top: "20.252366595475003%"
+-                                 top: "64.943%"
++                                 animationDelay: "1.9219637919861423s"
++                                 animationDuration: "2.4963707107244675s"
+-                                 animation-delay: "2.10273s"
+-                                 animation-duration: "3.85126s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "24.421687659254133%"
+-                                 left: "14.2623%"
++                                 top: "77.8499218763195%"
+-                                 top: "2.85796%"
++                                 animationDelay: "0.9715142256912216s"
++                                 animationDuration: "2.7769160185599437s"
+-                                 animation-delay: "0.95213s"
+-                                 animation-duration: "3.23051s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "91.74495764511325%"
+-                                 left: "25.0618%"
++                                 top: "67.04486767098454%"
+-                                 top: "37.688%"
++                                 animationDelay: "2.9292299941227657s"
++                                 animationDuration: "2.030249671587036s"
+-                                 animation-delay: "1.96365s"
+-                                 animation-duration: "2.7352s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "57.52236141863568%"
+-                                 left: "54.4502%"
++                                 top: "20.17612025232819%"
+-                                 top: "97.2192%"
++                                 animationDelay: "1.4703640457565181s"
++                                 animationDuration: "3.6667529600891657s"
+-                                 animation-delay: "1.50865s"
+-                                 animation-duration: "2.68419s"
+                                }}
+                              >
+                            ...
+                ...
+              ...
+
+[00:21:33.820] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:21:34.135] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="/testeAnti...">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <main style={{width:"100vw", ...}}>
+                        <WelcomeScreen onExplore={function handleExplore}>
+                          <div className={"WelcomeS..."}>
+                            <div className="WelcomeScr...">
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "74.49965612572248%"
+-                                 left: "24.9376%"
++                                 top: "79.44838361471506%"
+-                                 top: "73.5269%"
++                                 animationDelay: "0.4582712614237324s"
++                                 animationDuration: "3.4810493755328036s"
+-                                 animation-delay: "0.434431s"
+-                                 animation-duration: "2.53023s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "85.95002025839014%"
+-                                 left: "21.9903%"
++                                 top: "33.85193604957999%"
+-                                 top: "89.1633%"
++                                 animationDelay: "1.4987107365299215s"
++                                 animationDuration: "2.748890748776202s"
+-                                 animation-delay: "2.92828s"
+-                                 animation-duration: "3.51913s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "54.326387269830676%"
+-                                 left: "79.4642%"
++                                 top: "14.190923451077786%"
+-                                 top: "89.3003%"
++                                 animationDelay: "0.38726468891817944s"
++                                 animationDuration: "3.4328722229388013s"
+-                                 animation-delay: "2.53291s"
+-                                 animation-duration: "3.87919s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "59.18344268021328%"
+-                                 left: "48.9501%"
++                                 top: "11.532452583166231%"
+-                                 top: "78.3307%"
++                                 animationDelay: "0.2359956327967776s"
++                                 animationDuration: "2.3700535660441613s"
+-                                 animation-delay: "1.56844s"
+-                                 animation-duration: "2.332s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "59.13048592070823%"
+-                                 left: "61.5249%"
++                                 top: "24.238509221780358%"
+-                                 top: "11.4114%"
++                                 animationDelay: "1.4682801348561016s"
++                                 animationDuration: "2.920511773396689s"
+-                                 animation-delay: "0.866604s"
+-                                 animation-duration: "3.073s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "10.210693754913569%"
+-                                 left: "26.409%"
++                                 top: "88.52718534506087%"
+-                                 top: "81.9468%"
++                                 animationDelay: "1.0545579579287354s"
++                                 animationDuration: "2.8949597667493494s"
+-                                 animation-delay: "2.04435s"
+-                                 animation-duration: "2.16316s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "79.99472505078081%"
+-                                 left: "84.1233%"
++                                 top: "83.76913555947755%"
+-                                 top: "47.1516%"
++                                 animationDelay: "0.5873208613788167s"
++                                 animationDuration: "2.025534129847208s"
+-                                 animation-delay: "2.55758s"
+-                                 animation-duration: "3.25476s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "42.70908069143042%"
+-                                 left: "71.7991%"
++                                 top: "74.52658195269049%"
+-                                 top: "57.7559%"
++                                 animationDelay: "0.9499005711271306s"
++                                 animationDuration: "2.770757568472622s"
+-                                 animation-delay: "2.41923s"
+-                                 animation-duration: "2.8182s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "45.80231043070408%"
+-                                 left: "0.460406%"
++                                 top: "44.56143854093618%"
+-                                 top: "2.3215%"
++                                 animationDelay: "2.9885762822781174s"
++                                 animationDuration: "3.518395020914725s"
+-                                 animation-delay: "0.139677s"
+-                                 animation-duration: "2.08044s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "10.744180105011292%"
+-                                 left: "57.7679%"
++                                 top: "44.18468069183732%"
+-                                 top: "24.1787%"
++                                 animationDelay: "0.07890430299856444s"
++                                 animationDuration: "3.63066402740806s"
+-                                 animation-delay: "2.42135s"
+-                                 animation-duration: "2.56749s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "73.83652231797161%"
+-                                 left: "35.0125%"
++                                 top: "28.397812184793114%"
+-                                 top: "77.9756%"
++                                 animationDelay: "1.173127258671701s"
++                                 animationDuration: "3.4225057612536043s"
+-                                 animation-delay: "2.67233s"
+-                                 animation-duration: "2.6167s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "75.59931369166655%"
+-                                 left: "26.3487%"
++                                 top: "25.45398728504047%"
+-                                 top: "42.9573%"
++                                 animationDelay: "1.4527015620974022s"
++                                 animationDuration: "2.7122772652246874s"
+-                                 animation-delay: "1.99561s"
+-                                 animation-duration: "2.64757s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "64.74967622763207%"
+-                                 left: "58.5369%"
++                                 top: "60.81045145501517%"
+-                                 top: "54.0614%"
++                                 animationDelay: "2.096624332288566s"
++                                 animationDuration: "3.30807770617972s"
+-                                 animation-delay: "0.247206s"
+-                                 animation-duration: "3.66365s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "13.247993049364847%"
+-                                 left: "53.6973%"
++                                 top: "45.5696099519854%"
+-                                 top: "41.0325%"
++                                 animationDelay: "1.6752265184559403s"
++                                 animationDuration: "2.624316146315155s"
+-                                 animation-delay: "2.77657s"
+-                                 animation-duration: "3.20433s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "56.62727737459852%"
+-                                 left: "76.8156%"
++                                 top: "95.56604827386238%"
+-                                 top: "96.9369%"
++                                 animationDelay: "2.9852773923442832s"
++                                 animationDuration: "3.7892453513257403s"
+-                                 animation-delay: "1.76173s"
+-                                 animation-duration: "3.86097s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "50.594563514134606%"
+-                                 left: "85.1424%"
++                                 top: "79.12060832824453%"
+-                                 top: "25.6077%"
++                                 animationDelay: "0.3771809644296631s"
++                                 animationDuration: "3.628887708170831s"
+-                                 animation-delay: "1.52418s"
+-                                 animation-duration: "2.49019s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "78.5738494928529%"
+-                                 left: "21.9465%"
++                                 top: "81.52235494548921%"
+-                                 top: "78.4929%"
++                                 animationDelay: "0.8879579263551787s"
++                                 animationDuration: "3.1149602138922416s"
+-                                 animation-delay: "2.84241s"
+-                                 animation-duration: "3.68926s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "71.22241794832642%"
+-                                 left: "38.7278%"
++                                 top: "26.08092400026748%"
+-                                 top: "73.2052%"
++                                 animationDelay: "1.5834140007708157s"
++                                 animationDuration: "2.8904215583003134s"
+-                                 animation-delay: "0.292113s"
+-                                 animation-duration: "3.83935s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "28.206774537566737%"
+-                                 left: "66.0914%"
++                                 top: "10.762395069810282%"
+-                                 top: "0.132421%"
++                                 animationDelay: "0.49850230458166456s"
++                                 animationDuration: "3.2376774991021673s"
+-                                 animation-delay: "2.28154s"
+-                                 animation-duration: "3.04821s"
+                                }}
+                              >
+                              <div
+                                className="WelcomeScreen-module__EdFi1q__star"
+                                style={{
++                                 left: "72.48376670384707%"
+-                                 left: "92.0568%"
++                                 top: "17.01831875615376%"
+-                                 top: "54.9938%"
++                                 animationDelay: "0.787290865358471s"
++                                 animationDuration: "2.324335159022289s"
+-                                 animation-delay: "0.47597s"
+-                                 animation-duration: "3.37886s"
+                                }}
+                              >
+                            ...
+                ...
+              ...
+

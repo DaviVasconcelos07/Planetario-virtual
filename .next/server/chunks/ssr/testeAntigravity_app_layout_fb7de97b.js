@@ -1,0 +1,3 @@
+module.exports=[70223,a=>{"use strict";var b=a.i(92644);function c({children:a}){return(0,b.jsxs)("html",{lang:"pt-BR",children:[(0,b.jsxs)("head",{children:[(0,b.jsx)("link",{rel:"preconnect",href:"https://fonts.googleapis.com"}),(0,b.jsx)("link",{rel:"preconnect",href:"https://fonts.gstatic.com",crossOrigin:"anonymous"}),(0,b.jsx)("link",{href:"https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&family=Rajdhani:wght@300;500;700&display=swap",rel:"stylesheet"})]}),(0,b.jsx)("body",{children:a})]})}a.s(["default",()=>c,"metadata",0,{title:"Planetário Virtual",description:"Uma viagem pelo sistema solar"}])}];
+
+//# sourceMappingURL=testeAntigravity_app_layout_fb7de97b.js.map

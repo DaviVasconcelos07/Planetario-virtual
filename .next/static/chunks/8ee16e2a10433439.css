@@ -1,0 +1,1 @@
+:root{--bg-space:#000005;--text-primary:#fff;--text-secondary:#a0a0ff;--accent-glow:#00f0ff;--font-title:"Orbitron",sans-serif;--font-body:"Rajdhani",sans-serif}*{box-sizing:border-box;margin:0;padding:0}body{background-color:var(--bg-space);color:var(--text-primary);font-family:var(--font-body);width:100vw;height:100vh;overflow:hidden}h1,h2,h3{font-family:var(--font-title)}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 1, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/testeAntigravity/app/planet-label.css"],"sourcesContent":[".planet-label {\r\n    background: rgba(99, 102, 241, 0.15);\r\n    backdrop-filter: blur(12px);\r\n    -webkit-backdrop-filter: blur(12px);\r\n    border: 1px solid rgba(125, 211, 252, 0.3);\r\n    color: #f0f4ff;\r\n    padding: 0.6rem 1.2rem;\r\n    border-radius: 12px;\r\n    font-family: var(--font-title);\r\n    font-weight: 600;\r\n    font-size: 0.9rem;\r\n    white-space: nowrap;\r\n    box-shadow:\r\n        0 4px 16px rgba(99, 102, 241, 0.2),\r\n        0 0 20px rgba(125, 211, 252, 0.15);\r\n    pointer-events: none;\r\n    animation: labelFadeIn 0.3s ease-out;\r\n}\r\n\r\n@keyframes labelFadeIn {\r\n    from {\r\n        opacity: 0;\r\n        transform: translateY(-5px);\r\n    }\r\n\r\n    to {\r\n        opacity: 1;\r\n        transform: translateY(0);\r\n    }\r\n}"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;;AAmBA"}}]
+}
